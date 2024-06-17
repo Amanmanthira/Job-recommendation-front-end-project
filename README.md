@@ -1,3 +1,4 @@
 ## Job-recommendation-front-end ##
 
-[![Watch the video](path/to/thumbnail-image.jpg)]("C:\Users\amanm\Videos\2024-06-17 21-53-49.mkv")
+https://github.com/Amanmanthira/Job-recommendation-front-end-project/assets/126964186/d5f3c160-b3c0-4a9c-a7bd-51c6b263373d
+
